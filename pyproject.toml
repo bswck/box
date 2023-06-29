@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Boxes – pack and unpack your binary data conveniently."
 authors = ["bswck <bswck.dev@gmail.com>"]
 readme = "README.md"
+homepage = "https://github.com/bswck/box"
 
 [tool.poetry.dependencies]
 python = "^3.10"
